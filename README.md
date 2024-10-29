@@ -1,6 +1,6 @@
 # Bitlocker TPM + PIN Decryptor
 
-Simple Python script to retrieve the VMK through TPM Sniffing by knowing the user's PIN.
+Simple Python PoC to retrieve the VMK through TPM Sniffing by knowing the user's PIN.
 
 # Blog posts
 
@@ -8,7 +8,7 @@ Additonal details can be found on the following blogpost.
 
 * https://blog.scrt.ch/2024/10/28/privilege-escalation-through-tpm-sniffing-when-bitlocker-pin-is-enabled/
 
-## Build
+## Install
 
 ```
 pip install pycryptodome 
